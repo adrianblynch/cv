@@ -4,6 +4,7 @@
     "label": "Senior Developer",
     "picture": "",
     "email": "adelynch(@)gmail.com",
+    "phone": "",
     "website": "http://adrianlynch.co.uk/",
     "summary": "I am an enthusiastic senior web applications developer with a broad skill set, specialising in JavaScript in Node and the browser as well as over 14 years experience with CFML and SQL. I am able to work on my own initiative and as part of a team, I have managed and led projects from initial conception and requirement analysis through to completion.",
     "location": {
@@ -45,16 +46,17 @@
       "endDate": "Present",
       "summary": "A digital asset management platform for international retailers, combining workflow, planning, job management and communications to aid collaboration.",
       "highlights": [
-        "Part of a team that designed and built a new Node REST API and Backbone/Marionette front-end to replace the legacy platform.",
+        "Designed and built a Node REST API and Backbone/Marionette front-end to replace the legacy platform.",
         "Helped transition from the above Backbone/Marionette front-end (MVC) to Backbone/Rivets written in TypeScript (MVVM).",
-        "Helped introduced testing into the development team's workflow.",
+        "Helped introduced testing (TDD, integration, end-to-end) into the development team's workflow.",
         "Transitioned into a team lead role to mentor and coach other developers.",
         "Took part in the hiring of new engineers at junior, senior and technical architect level.",
-        "Ensured the smooth the start of new hires with guides, documentation and application and code walk-throughs.",
+        "Ensured the smooth start-up of new hires with guides, documentation and application and code walk-throughs.",
         "Started Code Club sessions to promote discussion and demos of interest.",
-        "Built a site configuration application to automate new client site generation.",
+        "Built a site configuration application to automate new client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new site.",
         "Built an API on top of the configuration application to expose data to internal services.",
-        "Lead teams on multiple applications rewrites using Backbone/Marionette."
+        "Lead teams on multiple applications rewrites using Backbone/Marionette.",
+        "Consolidated multiple access rights across different clients."
       ]
     },
     {
@@ -65,9 +67,13 @@
       "endDate": "2012",
       "summary": "A web development company offering hosting and application services.",
       "highlights": [
-        "Developed and hosted content management system to ease rollover of client sites.",
+        "Provided full-stack web development, SEO and web design services for clients.",
         "Provided managed hosting for clients on a Windows, Apache, Tomcat, Railo and SQL Server stack.",
-        "Provided full stack development for clients spanning X/HTML/5, CSS, JavaScript, jQuery on the front-end and CFML and SQL on the backend."
+        "Developed a hosted content management system to speed up website creation.",
+        "Liaised with clients through all parts of the development cycle, from initial requirements gathering through to development and support.",
+        "Orchestrated design work with external suppliers.",
+        "Managed client accounts, contracts and pricing agreements.",
+        "Sourced new clients through networking, social media and prior contacts."
       ]
     },
     {
@@ -94,17 +100,21 @@
       "highlights": [
         "O2 Events - Designed and built a system for the O2 Events team to organise their UK and European promotional tours.",
         "Implemented SiteCore CMS for three government agencies, The Training and Development Agency for Schools, The Information Commissioner's Office and the Institute of Educational Assessors.",
-        "Designed and built an advertising awards show media upload service which took video, audio and image files as part of the entry process and allowed modifications and conversions for judging."
+        "Designed and built an advertising awards show media upload service which took video, audio and image files as part of the entry process and allowed modifications and conversions for judging across different devices."
       ]
     },
     {
       "company": "Thoughtbubble Ltd",
-      "position": "Senior Developer",
-      "website": "",
+      "position": "Junior to Senior Developer",
+      "website": "http://www.thoughtbubble.com/",
       "startDate": "2001",
       "endDate": "2004",
-      "summary": "",
-      "highlights": []
+      "summary": "A London based web development agency.",
+      "highlights": [
+        "Progressed from junior to senior developer.",
+        "Liaised with stakeholders for requirements gathering. ",
+        "Introduced better development techniques to colleagues including modularisation, encapsulation, DRY principals and code generation."
+      ]
     }
   ],
   "volunteer": [],
@@ -112,13 +122,17 @@
     {
       "institution": "Open University",
       "area": "Software Development",
+      "studyType": "",
       "startDate": "2003",
       "endDate": "2003",
+      "gpa": "",
       "courses": [
         "M206 - Programming - An Object Oriented Approach"
       ]
     }
   ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",
