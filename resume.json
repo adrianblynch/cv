@@ -44,19 +44,20 @@
       "website": "http://www.concreteplatform.com/",
       "startDate": "September 2012",
       "endDate": "Present",
-      "summary": "A digital asset management platform for international retailers, combining workflow, planning, job management and communications to aid collaboration.",
+      "summary": "A digital asset management platform for retailers, combining workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
       "highlights": [
-        "Designed and built a Node REST API and Backbone/Marionette front-end to replace the legacy platform.",
-        "Helped transition from the above Backbone/Marionette front-end (MVC) to Backbone/Rivets written in TypeScript (MVVM).",
-        "Helped introduced testing (TDD, integration, end-to-end) into the development team's workflow.",
+        "Designed and built a Node REST API and Backbone/Marionette front-end to replace a legacy platform.",
+        "Helped transition a Backbone/Marionette/MVC front-end application to Backbone/Rivets/MVVM/TypeScript.",
+        "Built a site configuration application to automate new client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new site.",
+        "Built an API on top of the configuration application to expose data to internal services.",
+        "Lead teams on multiple application rewrites using Backbone/Marionette.",
+        "Consolidated multiple access rights across different clients as part of an access right audit.",
+        "Introduced testing (TDD, integration, end-to-end) into the development team's workflow.",
         "Transitioned into a team lead role to mentor and coach other developers.",
         "Took part in the hiring of new engineers at junior, senior and technical architect level.",
         "Ensured the smooth start-up of new hires with guides, documentation and application and code walk-throughs.",
         "Started Code Club sessions to promote discussion and demos of interest.",
-        "Built a site configuration application to automate new client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new site.",
-        "Built an API on top of the configuration application to expose data to internal services.",
-        "Lead teams on multiple applications rewrites using Backbone/Marionette.",
-        "Consolidated multiple access rights across different clients."
+        "Line managed developers, doing one-to-ones, goal setting and SOMETHING ELSE"
       ]
     },
     {
