@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "adrianblynch",
-        "url": "https://twitter.com/AdrianBLynch"
-      },
-      {
         "network": "GitHub",
         "username": "adrianblynch",
         "url": "https://github.com/adrianblynch"
@@ -29,6 +24,11 @@
         "network": "Stackoverflow",
         "username": "Adrian Lynch",
         "url": "http://stackoverflow.com/users/121946/adrian-lynch"
+      },
+      {
+        "network": "Twitter",
+        "username": "adrianblynch",
+        "url": "https://twitter.com/AdrianBLynch"
       },
       {
         "network": "LinkedIn",
@@ -42,13 +42,14 @@
       "company": "Concrete Media Ltd",
       "position": "Senior Engineer/Team Lead",
       "website": "http://www.concreteplatform.com/",
-      "startDate": "September 2012",
+      "startDate": "2012",
       "endDate": "Present",
       "summary": "A digital asset management platform for retailers, combining workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
       "highlights": [
         "Designed and built a Node REST API and Backbone/Marionette front-end to replace a legacy platform.",
-        "Helped transition a Backbone/Marionette/MVC front-end application to Backbone/Rivets/MVVM/TypeScript.",
-        "Built a site configuration application to automate new client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new site.",
+        "Helped transition a Backbone/Marionette/MVC front-end application to Backbone/Rivets/TypeScript/MVVM.",
+        "Designed a Roles API backed by a graph database for authorisation of resources to requesting users",
+        "Designed and built a site configuration application to automate client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new client set-up.",
         "Built an API on top of the configuration application to expose data to internal services.",
         "Lead teams on multiple application rewrites using Backbone/Marionette.",
         "Consolidated multiple access rights across different clients as part of an access right audit.",
@@ -57,7 +58,8 @@
         "Took part in the hiring of new engineers at junior, senior and technical architect level.",
         "Ensured the smooth start-up of new hires with guides, documentation and application and code walk-throughs.",
         "Started Code Club sessions to promote discussion and demos of interest.",
-        "Line managed developers, doing one-to-ones, goal setting and SOMETHING ELSE"
+        "Line managed developers, doing one-to-ones, goal setting and performance reviews.",
+        "Performed an analysis of penetration test results to highlight the issues. Created demos to showcase the vulnerabilies and documented possible mitigations."
       ]
     },
     {
@@ -74,7 +76,7 @@
         "Liaised with clients through all parts of the development cycle, from initial requirements gathering through to development and support.",
         "Orchestrated design work with external suppliers.",
         "Managed client accounts, contracts and pricing agreements.",
-        "Sourced new clients through networking, social media and prior contacts."
+        "Sourced new clients through networking, social media and existing contacts."
       ]
     },
     {
@@ -88,7 +90,7 @@
         "Led the portal's design and build.",
         "Integrated the portal with external property sites such as Rightmove and PrimeLocation.",
         "Built the server infrastructure.",
-        "Created a site templating application for rapid client site generation. "
+        "Created a site templating application for rapid client site generation."
       ]
     },
     {
@@ -97,7 +99,7 @@
       "website": "",
       "startDate": "2004",
       "endDate": "2007",
-      "summary": "As a freelance developer I worked for organisation including Merrill Lynch, Deloitte, Boeing, Coke, Barclaycard, DfES, the National Lottery, Shell, PricewaterhouseCoopers, Diageo, building websites and applications.",
+      "summary": "As a freelance developer I completed worked for organisations including Merrill Lynch, Deloitte, Boeing, Coke, Barclaycard, DfES, the National Lottery, Shell, PricewaterhouseCoopers, Diageo, building websites and applications.",
       "highlights": [
         "O2 Events - Designed and built a system for the O2 Events team to organise their UK and European promotional tours.",
         "Implemented SiteCore CMS for three government agencies, The Training and Development Agency for Schools, The Information Commissioner's Office and the Institute of Educational Assessors.",
@@ -106,7 +108,7 @@
     },
     {
       "company": "Thoughtbubble Ltd",
-      "position": "Junior to Senior Developer",
+      "position": "Junior/Senior Developer",
       "website": "http://www.thoughtbubble.com/",
       "startDate": "2001",
       "endDate": "2004",
@@ -114,7 +116,7 @@
       "highlights": [
         "Progressed from junior to senior developer.",
         "Liaised with stakeholders for requirements gathering. ",
-        "Introduced better development techniques to colleagues including modularisation, encapsulation, DRY principals and code generation."
+        "Introduced better development techniques such as modularisation, encapsulation, DRY principals and code generation."
       ]
     }
   ],
@@ -128,7 +130,29 @@
       "endDate": "2003",
       "gpa": "",
       "courses": [
-        "M206 - Programming - An Object Oriented Approach"
+        "M206 - Computing: An Object Oriented Approach (Distinction pass)"
+      ]
+    },
+    {
+      "institution": "Self learning",
+      "area": "Certifications",
+      "studyType": "",
+      "courses": [
+        "M101P: MongoDB for Developers (Pass mark of 100%)",
+        "Certified Advanced ColdFusion Developer 6/7/8/9 (Pass marks of 94%, 98%, 98%, 83%)",
+        "Brainbench certificates in HTML 3.2, XML Concepts, RDBMS Concepts, JavaScript, JavaScript 1.5 Fundamentals, ColdFusion 5 and ColdFusion 8"
+      ]
+    },
+    {
+      "institution": "St. Thomas More RC School",
+      "area": "Secondary School",
+      "studyType": "",
+      "startDate": "1989",
+      "endDate": "1998",
+      "gpa": "",
+      "courses": [
+        "A-Level Maths, Physics and Economics",
+        "GCSE Maths, Double Science, English Language/Literature, Geography, Art, Religious Education and Business Studies"
       ]
     }
   ],
@@ -165,8 +189,7 @@
       "name": "Sport",
       "keywords": [
         "Running",
-        "Badminton",
-        "Open Source Software"
+        "Badminton"
       ]
     }
   ],
