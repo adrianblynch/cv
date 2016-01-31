@@ -137,6 +137,8 @@
       "institution": "Self learning",
       "area": "Certifications",
       "studyType": "",
+      "startDate": "2001",
+      "endDate": "Present",
       "courses": [
         "M101P: MongoDB for Developers (Pass mark of 100%)",
         "Certified Advanced ColdFusion Developer 6/7/8/9 (Pass marks of 94%, 98%, 98%, 83%)",
