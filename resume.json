@@ -3,11 +3,10 @@
     "name": "Adrian Lynch",
     "label": "Senior Developer",
     "picture": "",
-    "email": "adelynch(@)gmail.com",
-    "phone": "",
-    "website": "http://adrianlynch.co.uk/",
-    "summary": "I am an enthusiastic senior web applications developer with a broad skill set, specialising in JavaScript in Node and the browser as well as over 14 years experience with CFML and SQL. I am able to work on my own initiative and as part of a team, I have managed and led projects from initial conception and requirement analysis through to completion.",
-    "website": "",
+    "email": "adelynch@gmail.com",
+    "phone": "07855 818 413",
+    "website": "http://www.adrianlynch.co.uk/",
+    "summary": "An experienced, enthusiastic, full-stack web applications developer with a broad skill set. Specialising in JavaScript, both in Node and the browser, CFML and SQL. I'm passionate about learning and improving my craft. I enjoy mentoring and teaching others. I'm pragmatic in my approach to development with a drive to solve problems with technical solutions.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -45,22 +44,22 @@
       "website": "http://www.concreteplatform.com/",
       "startDate": "2012",
       "endDate": "Present",
-      "summary": "A digital asset management platform for retailers, combining workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
+      "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
       "highlights": [
         "Designed and built a Node REST API and Backbone/Marionette front-end to replace a legacy platform.",
         "Helped transition a Backbone/Marionette/MVC front-end application to Backbone/Rivets/TypeScript/MVVM.",
-        "Designed a Roles API backed by a graph database for authorisation of resources to requesting users",
+        "Designed a Roles API backed by a graph database for authorisation of resources to requesting users.",
         "Designed and built a site configuration application to automate client site generation. Ensuring consistency and saving both the engineering and infrastructure teams hours on each new client set-up.",
         "Built an API on top of the configuration application to expose data to internal services.",
         "Lead teams on multiple application rewrites using Backbone/Marionette.",
         "Consolidated multiple access rights across different clients as part of an access right audit.",
         "Introduced testing (TDD, integration, end-to-end) into the development team's workflow.",
+        "Analysed penetration test results, created demos to showcase the vulnerabilies and documented possible mitigations.",
         "Transitioned into a team lead role to mentor and coach other developers.",
         "Took part in the hiring of new engineers at junior, senior and technical architect level.",
         "Ensured the smooth start-up of new hires with guides, documentation and application and code walk-throughs.",
         "Started Code Club sessions to promote discussion and demos of interest.",
-        "Line managed developers, doing one-to-ones, goal setting and performance reviews.",
-        "Performed an analysis of penetration test results to highlight the issues. Created demos to showcase the vulnerabilies and documented possible mitigations."
+        "Line managed developers, doing one-to-ones, goal setting and performance reviews."
       ]
     },
     {
@@ -153,7 +152,7 @@
       "gpa": "",
       "courses": [
         "A-Level Maths, Physics and Economics",
-        "GCSE Maths, Double Science, English Language/Literature, Geography, Art, Religious Education and Business Studies"
+        "GCSE Maths, Double Science, English Language/Literature, Geography, Art, RE and Business Studies"
       ]
     }
   ],
@@ -162,7 +161,7 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "Node",
         "JavaScript",
@@ -177,6 +176,18 @@
         "NoSQL",
         "REST"
       ]
+    },
+    {
+      "name": "Development Lifecycle & Processes",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Git",
+        "SVN",
+        "GitLab",
+        "Agile",
+        "Scrum"
+      ]
     }
   ],
   "languages": [
@@ -190,7 +201,8 @@
       "name": "Sport",
       "keywords": [
         "Running",
-        "Badminton"
+        "Badminton",
+        "Tennis"
       ]
     }
   ],
