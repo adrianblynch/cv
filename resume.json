@@ -5,7 +5,7 @@
     "picture": "",
     "email": "adelynch@gmail.com",
     "phone": "07855 818 413",
-    "website": "http://www.adrianlynch.co.uk/",
+    "website": "http://adrianblynch.github.io/",
     "summary": "An experienced, enthusiastic, full-stack web applications developer with a broad skill set. Specialising in JavaScript, both in Node and the browser, CFML and SQL. I'm passionate about learning and improving my craft. I enjoy mentoring and teaching others. I'm pragmatic in my approach to development with a drive to solve problems with technical solutions.",
     "location": {
       "address": "",
@@ -43,7 +43,7 @@
       "position": "Senior Engineer/Team Lead",
       "website": "http://www.concreteplatform.com/",
       "startDate": "2012",
-      "endDate": "Present",
+      "endDate": "2016",
       "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
       "highlights": [
         "Designed and built a Node REST API and Backbone/Marionette front-end to replace a legacy platform.",
