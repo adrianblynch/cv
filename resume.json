@@ -162,34 +162,55 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front-End",
       "level": "",
       "keywords": [
-        "Node",
         "JavaScript",
-        "MySQL",
-        "MSSQL",
+        "Backbone",
+        "Marionette",
         "jQuery",
         "HTML",
         "CSS",
-        "Backbone",
-        "Marionette",
-        "ColdFusion",
-        "Railo",
-        "NoSQL",
-        "REST"
+        "React *",
+        "Angular *",
+        "Webpack *"
       ]
     },
     {
-      "name": "Development Lifecycle & Processes",
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Node",
+        "Hapi",
+        "MySQL",
+        "MSSQL",
+        "ColdFusion/Railo/Lucee",
+        "RESTful APIs",
+        "MongoDB",
+        "Redis",
+        "OrientDB"
+      ]
+    },
+    {
+      "name": "Development Lifecycle",
       "level": "",
       "keywords": [
         "Jenkins",
-        "Git",
-        "SVN",
-        "GitLab",
-        "Agile",
-        "Scrum"
+        "Git/SVN",
+        "GitLab/GitHub",
+        "Agile/Scrum",
+        "Grunt/Gulp"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": [
+        "Mocha",
+        "Chai",
+        "Sinon",
+        "Webdriver.io",
+        "Codecept.js"
       ]
     }
   ],
@@ -204,8 +225,10 @@
       "name": "Sport",
       "keywords": [
         "Running",
+        "Skateboarding",
         "Badminton",
-        "Tennis"
+        "Tennis",
+        "Retro games"
       ]
     }
   ],
