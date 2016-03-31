@@ -172,8 +172,7 @@
         "HTML",
         "CSS",
         "React *",
-        "Angular *",
-        "Webpack *"
+        "Angular *"
       ]
     },
     {
@@ -199,7 +198,7 @@
         "Git/SVN",
         "GitLab/GitHub",
         "Agile/Scrum",
-        "Grunt/Gulp"
+        "Grunt/Gulp/Webpack *"
       ]
     },
     {
