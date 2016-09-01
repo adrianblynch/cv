@@ -44,9 +44,38 @@
   },
   "work": [
     {
+      "company": "Eurostar",
+      "position": "Senior JavaScript Developer",
+      "website": "http://eurostar.com/",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Eurostar are upgrading their stack with a single page application. Starting with the train selection page, the whole booking journey will be brought into the new application, backed by app specific APIs and upstream services.",
+      "highlights": [
+        "Designed and implemented responsive Riot tags for the new booking application.",
+        "Refactored the application's state using Redux best practices; access via selectors, flattening of the state tree, derived data.",
+        "Helped develop the application's API.",
+        "Wrote unit, integration and BBD tests for both the web app and API.",
+        "Helped evolve the Agile process with better estimating and breaking down of tasks."
+      ]
+    },
+    {
+      "company": "Tido Music Ltd",
+      "position": "Senior JavaScript Developer",
+      "website": "http://tido-music.com/",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "A mobile application to help teach piano with courses supplied by famous pianists and music tutition companies.",
+      "highlights": [
+        "Provided a technical review of the existing architecture for the API.",
+        "Designed and built a Node based RESTful API using Hapi.",
+        "Migrated data persistence from MySQL to DynamoDB.",
+        "Expanded the admin site using React and Redux with Material UI."
+      ]
+    },
+    {
       "company": "Concrete Media Ltd",
       "position": "Senior Engineer/Team Lead",
-      "website": "http://www.concreteplatform.com/",
+      "website": "http://concreteplatform.com/",
       "startDate": "2012",
       "endDate": "2016",
       "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
@@ -70,7 +99,7 @@
     {
       "company": "Halestorm Ltd",
       "position": "Owner/Developer",
-      "website": "http://www.halestorm.co.uk/",
+      "website": "http://halestorm.co.uk/",
       "startDate": "2008",
       "endDate": "2012",
       "summary": "A web development company offering hosting and application services.",
@@ -87,7 +116,7 @@
     {
       "company": "Property Owl Ltd",
       "position": "Lead Developer",
-      "website": "http://www.propertyowl.co.uk/",
+      "website": "http://propertyowl.co.uk/",
       "startDate": "2007",
       "endDate": "2008",
       "summary": "A start-up competing with the major property portals (Rightmove, PrimeLocation) and estate agent software providers (Expert Agent, Vebra).",
@@ -114,7 +143,7 @@
     {
       "company": "Thoughtbubble Ltd",
       "position": "Junior/Senior Developer",
-      "website": "http://www.thoughtbubble.com/",
+      "website": "http://thoughtbubble.com/",
       "startDate": "2001",
       "endDate": "2004",
       "summary": "A London based web development agency.",
@@ -171,13 +200,12 @@
       "level": "",
       "keywords": [
         "JavaScript",
-        "Backbone",
-        "Marionette",
-        "jQuery",
+        "React/Riot",
+        "Redux",
+        "Backbone/Marionette",
         "HTML",
-        "CSS",
-        "React *",
-        "Angular *"
+        "CSS/SCSS/BEM/Susy",
+        "jQuery"
       ]
     },
     {
@@ -185,12 +213,11 @@
       "level": "",
       "keywords": [
         "Node",
-        "Hapi",
-        "MySQL",
-        "MSSQL",
+        "Hapi/Koa",
+        "MySQL/MSSQL",
         "ColdFusion/Railo/Lucee",
         "RESTful APIs",
-        "MongoDB",
+        "MongoDB/DynamoDB",
         "Redis",
         "OrientDB"
       ]
@@ -203,7 +230,7 @@
         "Git/SVN",
         "GitLab/GitHub",
         "Agile/Scrum",
-        "Grunt/Gulp/Webpack *"
+        "Webpack/Grunt"
       ]
     },
     {
@@ -211,9 +238,9 @@
       "level": "",
       "keywords": [
         "Mocha",
-        "Chai",
-        "Sinon",
+        "Chai/Sinon",
         "Webdriver.io",
+        "Cucumber.js",
         "Codecept.js *",
         "AVA *"
       ]
@@ -229,11 +256,11 @@
     {
       "name": "Sport",
       "keywords": [
-        "Running",
-        "Skateboarding",
         "Badminton",
+        "Retro games",
+        "Skateboarding",
         "Tennis",
-        "Retro games"
+        "Running"
       ]
     }
   ],
