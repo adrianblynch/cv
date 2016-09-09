@@ -52,7 +52,7 @@
       "summary": "Eurostar are upgrading their stack with a single page application. Starting with the train selection page, the whole booking journey will be brought into the new application, backed by app specific APIs and upstream services.",
       "highlights": [
         "Designed and implemented responsive Riot tags for the new booking application.",
-        "Refactored the application's state using Redux best practices; access via selectors, flattening of the state tree, derived data.",
+        "Refactored the application's state using Redux best practices; flattening and minimising of the state tree, accessing and derived data via selectors.",
         "Helped develop the application's API.",
         "Wrote unit, integration and BBD tests for both the web app and API.",
         "Helped evolve the Agile process with better estimating and breaking down of tasks."
