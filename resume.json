@@ -46,17 +46,17 @@
     {
       "company": "Eurostar",
       "position": "Senior JavaScript Developer",
-      "website": "http://eurostar.com/",
+      "website": "http://booking.eurostar.com/",
       "startDate": "2016",
       "endDate": "Present",
       "summary": "Eurostar are upgrading their stack with a single page application. Starting with the train selection page, the whole booking journey will be brought into the new application, backed by app specific APIs and upstream services.",
       "highlights": [
         "Designed and implemented responsive Riot tags for the new booking application.",
-        "Refactored the application's state using Redux best practices; flattening and minimising of the state tree, accessing and derived data via selectors.",
+        "Refactored the application's state using Redux best practices; flattening and minimising of the state tree, accessing and deriving data via selectors.",
         "Helped develop the application's API.",
         "Wrote unit, integration and BDD tests for both the web app and API.",
-        "Mentored other developers."
-        "Helped evolve the Agile process with better estimating and breaking down of tasks.",
+        "Mentored other developers.",
+        "Helped evolve the Agile process with better estimating and breaking down of tasks."
       ]
     },
     {
