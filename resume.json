@@ -54,9 +54,9 @@
         "Designed and implemented responsive Riot tags for the new booking application.",
         "Refactored the application's state using Redux best practices; flattening and minimising of the state tree, accessing and derived data via selectors.",
         "Helped develop the application's API.",
-        "Wrote unit, integration and BBD tests for both the web app and API.",
-        "Helped evolve the Agile process with better estimating and breaking down of tasks.",
+        "Wrote unit, integration and BDD tests for both the web app and API.",
         "Mentored other developers."
+        "Helped evolve the Agile process with better estimating and breaking down of tasks.",
       ]
     },
     {
