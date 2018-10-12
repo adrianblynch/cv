@@ -58,7 +58,7 @@
         "Helped in the technical analysis of a new inventory system from a 3rd party supplier and developed a GraphQL API as an abstraction over the new inventory systems API.",
         "Set-up a React components library using Styled Components and Storybook for use in a new booking application (used by the call centre, travel agents and station staff) but also for use in the growing number of admin style pages being created across teams.",
         "Liased with penetration testers for front-end and backend test runs across multiple projects.",
-        "Interviewed and onboared developers of various levels both locally and remote.",
+        "Interviewed and onboarded developers of various levels both locally and remote.",
         "Mentored other developers.",
         "Took part and encouraged higher level meetings between Lead Devs, Business Analysts, Architects and Scrum Masters. These took the form of Scrum of Scrums and weekly Lead Devs get-togethers."
       ]
@@ -166,7 +166,7 @@
       "startDate": "2003",
       "endDate": "2003",
       "gpa": "",
-      "XXX": [
+      "courses": [
         "M206 - Computing: An Object Oriented Approach (Distinction pass)"
       ]
     },
