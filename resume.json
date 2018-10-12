@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Adrian Lynch",
-    "label": "Senior Developer",
+    "label": "Lead Dev & Senior JavaScript Developer",
     "picture": "",
     "email": "adelynch@gmail.com",
     "phone": "07855 818 413",
-    "website": "http://adrianblynch.github.io/",
     "summary": "An experienced, enthusiastic, full-stack web applications developer with a broad skill set. Specialising in JavaScript, both in Node and the browser, CFML and SQL. I'm passionate about learning and improving my craft. I enjoy mentoring and teaching others. I'm pragmatic in my approach to development with a drive to solve problems with technical solutions.",
     "location": {
       "address": "",
@@ -26,11 +25,6 @@
         "url": "http://stackoverflow.com/users/121946/adrian-lynch"
       },
       {
-        "network": "Twitter",
-        "username": "adrianblynch",
-        "url": "https://twitter.com/AdrianBLynch"
-      },
-      {
         "network": "LinkedIn",
         "username": "Adrian Lynch",
         "url": "https://www.linkedin.com/in/adrian-lynch-8237a21"
@@ -45,24 +39,34 @@
   "work": [
     {
       "company": "Eurostar",
-      "position": "Senior JavaScript Developer (Contract)",
-      "website": "http://booking.eurostar.com/",
+      "position": "Lead Dev & Senior JavaScript Developer",
+      "website": "https://www.eurostar.com/",
       "startDate": "2016",
-      "endDate": "Present",
-      "summary": "Eurostar are upgrading their stack with a single page application. Starting with the train selection page, the whole booking journey will be brought into the new application, backed by app specific APIs and upstream services.",
+      "endDate": "2018",
+      "summary": "Eurostar began a project to update their .com website to a series of responsive single page applications and supporting APIs. I joined as a Senior Developer on the Booking Path application and moved to Lead Developer across additional projects in the upgrade. I finished at Eurostar as Lead Developer on a projected 18 month long multi-part project to replace a '70s era mainframe inventory system and to replace multiple booking tools used internally and externally with a new front-end application.",
       "highlights": [
-        "Designed and implemented responsive Riot tags for the new booking application.",
-        "Refactored the application's state using Redux best practices; flattening and minimising of the state tree, accessing and deriving data via selectors.",
-        "Helped develop the application's API.",
-        "Wrote unit, integration and BDD tests for both the web app and API.",
+
+        "Wrote multiple responsive front-end applications using a mixture of React, Styled Components, Create React App, RiotJS and SCSS.",
+        "Used Redux and GraphQL/Apollo Client for front-end state management.",
+        "Created APIs to support the front-ends using a mixture of Express, Koa and Hapi.",
+        "Set-up CI pipelines for each project using CircleCI, Heroku and AWS.",
+        "Wrote unit, integration and automated browser tests for both the front-ends and APIs using a mixture of Mocha/Chai, Jest, Enzyme, Cucumber.js, WebdriverIO, Nightwatch.js, CodeceptJS and Cypress.",
+        "Promoted the importance of code reviews in a effort to improve code quality and increase knowledge across the teams.",
+        "Implemented Prettier to remove discussions about formatting from code reviews.",
+        "Promoted the use of GitHub Flow to encourage regular deployments.",
+        "Created and encouraged the use of shared React components and utility modules for use across teams/projects.",
+        "Helped in the technical analysis of a new inventory system from a 3rd party supplier and developed a GraphQL API as an abstraction over the new inventory systems API.",
+        "Set-up a React components library using Styled Components and Storybook for use in a new booking application (used by the call centre, travel agents and station staff) but also for use in the growing number of admin style pages being created across teams.",
+        "Liased with penetration testers for front-end and backend test runs across multiple projects.",
+        "Interviewed and onboared developers of various levels both locally and remote.",
         "Mentored other developers.",
-        "Helped evolve the Agile process with better estimating and breaking down of tasks."
+        "Took part and encouraged higher level meetings between Lead Devs, Business Analysts, Architects and Scrum Masters. These took the form of Scrum of Scrums and weekly Lead Devs get-togethers."
       ]
     },
     {
-      "company": "Tido Music Ltd",
+      "company": "Tido Music",
       "position": "Senior JavaScript Developer (Contract)",
-      "website": "http://tido-music.com/",
+      "website": "https://tido-music.com",
       "startDate": "2016",
       "endDate": "2016",
       "summary": "A mobile application to help teach piano with courses supplied by famous pianists and music tutition companies.",
@@ -74,9 +78,9 @@
       ]
     },
     {
-      "company": "Concrete Media Ltd",
+      "company": "Concrete Media",
       "position": "Senior Engineer/Team Lead",
-      "website": "http://concreteplatform.com/",
+      "website": "https://concreteplatform.com",
       "startDate": "2012",
       "endDate": "2016",
       "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
@@ -98,9 +102,8 @@
       ]
     },
     {
-      "company": "Halestorm Ltd",
+      "company": "Halestorm",
       "position": "Owner/Developer",
-      "website": "http://halestorm.co.uk/",
       "startDate": "2008",
       "endDate": "2012",
       "summary": "A web development company offering hosting and application services.",
@@ -115,9 +118,8 @@
       ]
     },
     {
-      "company": "Property Owl Ltd",
+      "company": "Property Owl",
       "position": "Lead Developer",
-      "website": "http://propertyowl.co.uk/",
       "startDate": "2007",
       "endDate": "2008",
       "summary": "A start-up competing with the major property portals (Rightmove, PrimeLocation) and estate agent software providers (Expert Agent, Vebra).",
@@ -138,18 +140,18 @@
       "highlights": [
         "O2 Events - Designed and built a system for the O2 Events team to organise their UK and European promotional tours.",
         "Implemented SiteCore CMS for three government agencies, The Training and Development Agency for Schools, The Information Commissioner's Office and the Institute of Educational Assessors.",
-        "Designed and built an advertising awards show media upload service which took video, audio and image files as part of the entry process and allowed modifications and conversions for judging across different devices."
+        "Designed and built an advertising awards show media upload service which took video, audio and image files as part of the entry process and allowed modifications and conversions for judging across different devices. (Still in active use today)"
       ]
     },
     {
-      "company": "Thoughtbubble Ltd",
-      "position": "Junior/Senior Developer",
-      "website": "http://thoughtbubble.com/",
+      "company": "Thoughtbubble",
+      "position": "Junior/Mid-Level Developer",
+      "website": "https://thoughtbubble.com",
       "startDate": "2001",
       "endDate": "2004",
       "summary": "A London based web development agency.",
       "highlights": [
-        "Progressed from junior to senior developer.",
+        "Progressed from junior to mid-level developer.",
         "Liaised with stakeholders for requirements gathering. ",
         "Introduced better development techniques such as modularisation, encapsulation, DRY principals and code generation."
       ]
@@ -164,7 +166,7 @@
       "startDate": "2003",
       "endDate": "2003",
       "gpa": "",
-      "courses": [
+      "XXX": [
         "M206 - Computing: An Object Oriented Approach (Distinction pass)"
       ]
     },
@@ -201,11 +203,11 @@
       "level": "",
       "keywords": [
         "JavaScript",
-        "React/Riot",
-        "Redux",
-        "Backbone/Marionette",
+        "React, Riot",
+        "Redux, Apollo Client",
+        "Backbone, Marionette",
         "HTML",
-        "CSS/SCSS/BEM/Susy",
+        "CSS, SCSS, BEM, Susy",
         "jQuery"
       ]
     },
@@ -214,43 +216,37 @@
       "level": "",
       "keywords": [
         "Node",
-        "Hapi/Koa",
-        "MySQL/MSSQL",
-        "ColdFusion/Railo/Lucee",
-        "RESTful APIs",
-        "MongoDB/DynamoDB",
-        "Redis",
-        "OrientDB"
+        "Express, Koa, Hapi",
+        "REST, GraphQL",
+        "MySQL, MSSQL",
+        "MongoDB, DynamoDB, Redis",
+        "OrientDB",
+        "ColdFusion, Railo"
       ]
     },
     {
-      "name": "Development Lifecycle",
+      "name": "SDL & CI",
       "level": "",
       "keywords": [
-        "Jenkins",
-        "Git/SVN",
-        "GitLab/GitHub",
-        "Agile/Scrum",
-        "Webpack/Grunt"
+        "CircleCI",
+        "Heroku, AWS",
+        "Git, SVN",
+        "GitHub, GitLab",
+        "Agile, Scrum, Kanban",
+        "Webpack, Grunt",
+        "Jenkins"
       ]
     },
     {
       "name": "Testing",
       "level": "",
       "keywords": [
-        "Mocha",
-        "Chai/Sinon",
-        "Webdriver.io",
+        "Mocha, Chai, Sinon",
+        "Jest, Enzyme",
+        "Cypress, Nightwatch.js, CodeceptJS, WebdriverIO",
         "Cucumber.js",
-        "Codecept.js *",
-        "AVA *"
+        "AVA"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     }
   ],
   "interests": [
@@ -258,10 +254,16 @@
       "name": "Sport",
       "keywords": [
         "Badminton",
-        "Retro games",
         "Skateboarding",
         "Tennis",
         "Running"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Retro games",
+        "PhaserJS"
       ]
     }
   ],
