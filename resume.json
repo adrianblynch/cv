@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Adrian Lynch",
-    "label": "Lead Dev & Senior JavaScript Developer",
+    "label": "Lead/Senior JavaScript Developer",
     "picture": "",
     "email": "adelynch@gmail.com",
     "phone": "07855 818 413",
@@ -39,36 +39,31 @@
   "work": [
     {
       "company": "Eurostar",
-      "position": "Lead Dev & Senior JavaScript Developer",
+      "position": "Lead/Senior JavaScript Developer",
       "website": "https://www.eurostar.com/",
-      "startDate": "2016",
-      "endDate": "2018",
-      "summary": "Eurostar began a project to update their .com website to a series of responsive single page applications and supporting APIs. I joined as a Senior Developer on the Booking Path application and moved to Lead Developer across additional projects in the upgrade. I finished at Eurostar as Lead Developer on a projected 18 month long multi-part project to replace a '70s era mainframe inventory system and to replace multiple booking tools used internally and externally with a new front-end application.",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Eurostar began a project to update their .com website to a number of responsive single page applications and supporting APIs. I joined as a Senior Developer and moved to Lead Developer across additional projects in the upgrade. I finished at Eurostar as Lead Developer on a projected 18 month long multi-part project to replace a '70s era mainframe inventory system and to replace multiple booking tools used internally and externally with a new front-end application.",
       "highlights": [
-
-        "Wrote multiple responsive front-end applications using a mixture of React, Styled Components, Create React App, RiotJS and SCSS.",
-        "Used Redux and GraphQL/Apollo Client for front-end state management.",
-        "Created APIs to support the front-ends using a mixture of Express, Koa and Hapi.",
-        "Set-up CI pipelines for each project using CircleCI, Heroku and AWS.",
-        "Wrote unit, integration and automated browser tests for both the front-ends and APIs using a mixture of Mocha/Chai, Jest, Enzyme, Cucumber.js, WebdriverIO, Nightwatch.js, CodeceptJS and Cypress.",
-        "Promoted the importance of code reviews in a effort to improve code quality and increase knowledge across the teams.",
-        "Implemented Prettier to remove discussions about formatting from code reviews.",
-        "Promoted the use of GitHub Flow to encourage regular deployments.",
-        "Created and encouraged the use of shared React components and utility modules for use across teams/projects.",
-        "Helped in the technical analysis of a new inventory system from a 3rd party supplier and developed a GraphQL API as an abstraction over the new inventory systems API.",
-        "Set-up a React components library using Styled Components and Storybook for use in a new booking application (used by the call centre, travel agents and station staff) but also for use in the growing number of admin style pages being created across teams.",
-        "Liased with penetration testers for front-end and backend test runs across multiple projects.",
-        "Interviewed and onboarded developers of various levels both locally and remote.",
-        "Mentored other developers.",
-        "Took part and encouraged higher level meetings between Lead Devs, Business Analysts, Architects and Scrum Masters. These took the form of Scrum of Scrums and weekly Lead Devs get-togethers."
+        "Wrote multiple responsive front-end applications using React with Styled Components, SCSS, Redux and Apollo Client.",
+        "Created REST and GraphQL APIs to support the front-ends using a mixture of Express, Koa and Hapi.",
+        "Set-up front-end CI pipelines using CircleCI & Heroku and worked with CodeDeploy on AWS for API deployments.",
+        "Increased the speed and rate of deployments by introducing GitHub Flow to keep the pipeline clear and Prettier to remove PR noise around formatting.",
+        "Wrote front-end and API unit, integration and end-to-end tests across different projects using a mixture of Mocha/Chai, Jest, Enzyme, Cucumber.js, WebdriverIO, Nightwatch.js, CodeceptJS and Cypress.",
+        "Improved cross-team communications by encouraging meetings between various stakeholders in the form of Scrum-of-Scrums, ad-hoc and regular meetings and catch-ups.",
+        "Interviewed and onboarded developers of various levels both locally and remote for existing teams and newly formed ones.",
+        "Increased domain and technical knowledge by mentoring developers in and across teams and by regularly presenting project progress and new ideas, frameworks or libraries.",
+        "Improved and promoted security best practices by working with penetration testers for front-end and backend test runs, fostering awareness in teams and working with the Lead Architect to homogenise security practices across teams.",
+        "Promoted code reuse with shared components, component libraries and utility code.",
+        "Took part in the technical analysis of a new inventory system from a 3rd party supplier and developed a GraphQL API as an abstraction over the new inventory system's API."
       ]
     },
     {
       "company": "Tido Music",
       "position": "Senior JavaScript Developer (Contract)",
       "website": "https://tido-music.com",
-      "startDate": "2016",
-      "endDate": "2016",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
       "summary": "A mobile application to help teach piano with courses supplied by famous pianists and music tutition companies.",
       "highlights": [
         "Provided a technical review of the existing architecture for the API.",
@@ -81,8 +76,8 @@
       "company": "Concrete Media",
       "position": "Senior Engineer/Team Lead",
       "website": "https://concreteplatform.com",
-      "startDate": "2012",
-      "endDate": "2016",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
       "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
       "highlights": [
         "Designed and built a Node REST API and Backbone/Marionette front-end to replace a legacy platform.",
@@ -104,8 +99,8 @@
     {
       "company": "Halestorm",
       "position": "Owner/Developer",
-      "startDate": "2008",
-      "endDate": "2012",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
       "summary": "A web development company offering hosting and application services.",
       "highlights": [
         "Provided full-stack web development, SEO and web design services for clients.",
@@ -120,8 +115,8 @@
     {
       "company": "Property Owl",
       "position": "Lead Developer",
-      "startDate": "2007",
-      "endDate": "2008",
+      "startDate": "2007-01-01",
+      "endDate": "2008-01-01",
       "summary": "A start-up competing with the major property portals (Rightmove, PrimeLocation) and estate agent software providers (Expert Agent, Vebra).",
       "highlights": [
         "Led the portal's design and build.",
@@ -134,8 +129,8 @@
       "company": "Freelance",
       "position": "Web Application Developer",
       "website": "",
-      "startDate": "2004",
-      "endDate": "2007",
+      "startDate": "2004-01-01",
+      "endDate": "2007-01-01",
       "summary": "As a freelance developer I completed work for organisations including Merrill Lynch, Deloitte, Boeing, Coke, Barclaycard, DfES, the National Lottery, Shell, PricewaterhouseCoopers, Diageo, building websites and applications.",
       "highlights": [
         "O2 Events - Designed and built a system for the O2 Events team to organise their UK and European promotional tours.",
@@ -147,8 +142,8 @@
       "company": "Thoughtbubble",
       "position": "Junior/Mid-Level Developer",
       "website": "https://thoughtbubble.com",
-      "startDate": "2001",
-      "endDate": "2004",
+      "startDate": "2001-01-01",
+      "endDate": "2004-01-01",
       "summary": "A London based web development agency.",
       "highlights": [
         "Progressed from junior to mid-level developer.",
@@ -162,9 +157,8 @@
     {
       "institution": "Open University",
       "area": "Software Development",
-      "studyType": "",
-      "startDate": "2003",
-      "endDate": "2003",
+      "startDate": "2003-01-01",
+      "endDate": "2003-01-01",
       "gpa": "",
       "courses": [
         "M206 - Computing: An Object Oriented Approach (Distinction pass)"
@@ -173,9 +167,6 @@
     {
       "institution": "Self learning",
       "area": "Certifications",
-      "studyType": "",
-      "startDate": "2001",
-      "endDate": "Present",
       "courses": [
         "M101P: MongoDB for Developers (Pass mark of 100%)",
         "Certified Advanced ColdFusion Developer 6/7/8/9 (Pass marks of 94%, 98%, 98%, 83%)",
@@ -185,9 +176,8 @@
     {
       "institution": "St. Thomas More RC School",
       "area": "Secondary School",
-      "studyType": "",
-      "startDate": "1989",
-      "endDate": "1998",
+      "startDate": "1989-01-01",
+      "endDate": "1998-01-01",
       "gpa": "",
       "courses": [
         "A-Level Maths, Physics and Economics",
@@ -268,6 +258,10 @@
     }
   ],
   "references": [
+    {
+      "name": "Xavier Romanet - Head of IS Sales Systems at Eurostar",
+      "reference": "Adrian has helped us immensely not only with his technical skills but also with his leadership skills. Adrian was heading the transformation of the team to achieve great business and digital agility and great productivity in the end. I would recommend hiring Adrian for anyone who wants to have working software solutions but also a leader who can help to transform their organisation."
+    },
     {
       "name": "Andrew Clarke - Technical Architect at Concrete Media Ltd",
       "reference": "Adrian is a conscientious, talented software engineer who delivers quality software whilst always wanting to do better. Adrian mentors colleagues by pushing them to read, learn and try new technologies, whilst keeping a pragmatic view on the usefulness of these technologies to solve the real world problem. I'd welcome the chance to work with Adrian again, and recommend him to anyone who needs to get stuff done, instead of just talking about it."
