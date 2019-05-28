@@ -1,0 +1,13 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My CV",
+  "repository": "https://github.com/adrianblynch/cv.git",
+  "author": "Adrian Lynch",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "scripts": {
+    "export": "resume export index.html && node post-export.js"
+  }
+}

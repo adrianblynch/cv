@@ -3,7 +3,7 @@
     "name": "Adrian Lynch",
     "label": "Lead/Senior JavaScript Developer",
     "picture": "",
-    "email": "adelynch@gmail.com",
+    "email": "adelynch+cv@gmail.com",
     "phone": "07855 818 413",
     "summary": "An experienced, enthusiastic, full-stack web applications developer with a broad skill set. Specialising in JavaScript, both in Node and the browser, CFML and SQL. I'm passionate about learning and improving my craft. I enjoy mentoring and teaching others. I'm pragmatic in my approach to development with a drive to solve problems with technical solutions.",
     "location": {
@@ -16,22 +16,18 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "adrianblynch",
         "url": "https://github.com/adrianblynch"
       },
       {
         "network": "Stackoverflow",
-        "username": "Adrian Lynch",
         "url": "http://stackoverflow.com/users/121946/adrian-lynch"
       },
       {
         "network": "LinkedIn",
-        "username": "Adrian Lynch",
         "url": "https://www.linkedin.com/in/adrian-lynch-8237a21"
       },
       {
         "network": "Codewars",
-        "username": "adrianblynch",
         "url": "https://www.codewars.com/users/adrianblynch"
       }
     ]
